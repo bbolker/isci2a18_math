@@ -1,0 +1,50 @@
+---
+title: "LLMs"
+date: today
+bibliography: LLMs.bib
+---
+
+These are some notes about my thoughts on *large language models* (such as Gemini, ChatGPT, Microsoft Copilot, etc.). They are intended to inform, and to act a s a jumping-off point for class discussion.
+
+They're focused on use in undergraduate coursework, and are
+
+## Beneficial uses of LLMs
+
+* Act as a personal tutor; answer questions, pose questions, give examples ...
+* Eliminate drudgery, allow students to focus on more important parts of their education
+* Learning how to use LLMs more effectively, for future career etc.
+* From @carriganGenerative2025, quoted by @heardThree2025: 
+
+> “rubberducking” (explaining your ideas to an LLM to test and polish your ability to explain them, just as you might talk your ideas out to a friend, or your cat, or a rubber duck); asking an LLM to summarize your draft, using its errors to diagnose gaps in what you’ve written; and using an LLM to assist with translation of text between audiences (paper to blog post, for example)
+
+## Downsides of LLMs
+
+* Can help students avoid exercising their brains and actually learning stuff; short-circuits the learning process
+* In order to understand when LLMs are wrong (hallucinations, bullshit, confident but incorrect answers) students often already need to know *the things we're trying to teach them*
+* Do LLMs improve writing or worsen it?
+* Increased dependence on mega-corporations
+
+## LLM concerns
+
+* water/power usage
+* AI slop
+* privacy
+* copyright/fair use
+* algorithmic bias
+* equity (access to professional/$$ AI versions)
+* displacement of jobs, especially creative jobs
+* enhanced cheating on academic assessments
+
+## using LLMs effectively
+
+* checking results (common sense, following up references)
+* attribution
+* prompt engineering
+
+@sheckleyBattle1954; @rikblokReal2019. (I used Copilot to find the second clip!)
+
+* Nathalie Moon picture
+* @bergstromCalling2020; https://thebullshitmachines.com/
+* other Heard blog posts: @heardMaking2025, @heardNavigating2024
+
+## References
