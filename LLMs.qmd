@@ -2,11 +2,14 @@
 title: "LLMs"
 date: today
 bibliography: LLMs.bib
+format:
+  html:
+    embed-resources: true
 ---
 
 These are some notes about my thoughts on *large language models* (such as Gemini, ChatGPT, Microsoft Copilot, etc.). They are intended to inform, and to act a s a jumping-off point for class discussion.
 
-They're focused on use in undergraduate coursework, and are
+They're focused on use in undergraduate coursework, and are opinionated.
 
 ## Beneficial uses of LLMs
 
@@ -21,7 +24,7 @@ They're focused on use in undergraduate coursework, and are
 
 * Can help students avoid exercising their brains and actually learning stuff; short-circuits the learning process
 * In order to understand when LLMs are wrong (hallucinations, bullshit, confident but incorrect answers) students often already need to know *the things we're trying to teach them*
-* Do LLMs improve writing or worsen it?
+* Do LLMs make student writing better or worse (or more average, i.e. regression to the mean?)
 * Increased dependence on mega-corporations
 
 ## LLM concerns
@@ -35,10 +38,24 @@ They're focused on use in undergraduate coursework, and are
 * displacement of jobs, especially creative jobs
 * enhanced cheating on academic assessments
 
+## Analogies
+
+LLMs are like a:
+
+* calculator?
+* symbolic algebra package?
+* statistics package?
+* spell-checker?
+* navigation aid?
+
+What tasks are we off-loading to the computer, and what is the value of being able to do those tasks unassisted? Should you have to learn to do stuff before you're allowed to let the computer do it for you?
+
+(Discuss.)
+
 ## using LLMs effectively
 
 * checking results (common sense, following up references)
-* attribution
+* attribution (e.g. [McMaster Research Guide on citing AI](https://libguides.mcmaster.ca/cite-gen-ai)
 * prompt engineering
 
 @sheckleyBattle1954; @rikblokReal2019. (I used Copilot to find the second clip!)
