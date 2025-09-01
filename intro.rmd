@@ -1,0 +1,54 @@
+---
+title: "Course introduction"
+date: "`r format(Sys.time(), '%d %b %Y')`"
+---
+
+## Land acknowledgement
+
+McMaster University (and this class) is on the traditional territories of the Mississauga and Haudenosaunee nations, and within the lands protected by the “Dish with One Spoon” wampum agreement. (**Why?** See ["Beyond Territorial Acknowledgements"](https://apihtawikosisan.com/2024/11/revisiting-beyond-territorial-acknowledgments/)
+
+# Course goals
+
+* Vector calculus
+Multidimensional integration (and differentiation);
+  integration along lines, surfaces, volumes ...
+Stokes, Green's, divergence theorems
+
+Don't be a jerk
+
+Ask questions
+How do we know
+So what
+
+Breaking down math details
+ 
+* numbers/quantities
+* symbols (at different levels of abstraction)
+* geometry
+
+# Expectations
+
+- attend and participate in class (on time); do the reading; ask questions
+(including submitting your discussion questions online and
+participating in class and online discussions); think critically and
+creatively. *Please let me know if you can't participate in class discussion (shyness, internet/remote-participation issues, etc.).*
+- do your own work, don't plagiarize, reference sources appropriately, credit group work appropriately: see [honesty.html](honesty.html).
+- Appropriate use of generative AI. We will discuss GenAI at greater length later, but roughly:
+   - **always** cite GenAI use (see [citation guide](https://libguides.mcmaster.ca/cite-gen-ai))
+   - fixing spelling and grammar: OK, make sure it doesn't change the meaning
+   - polishing writing: if you must, although it might not improve it
+   - finding resources: OK, but check that the sources really exist and that facts are correct
+   - coming up with ideas: **not OK**
+   - writing from scratch: **not OK** (not even first drafts)
+
+# Recordings and notes
+
+- I will post lecture notes beforehand; recordings will be available by request. Don't expect them to be comprehensive.
+- There will be some 'spoiler' blocks in notes.
+- If you prefer notes in another format, ask.
+
+- The important questions:
+   - **How do we know?** 
+   - **So what?**
+
+## References
