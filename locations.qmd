@@ -1,0 +1,33 @@
+---
+title: "ISCI 2A18 math locations"
+author: Ben Bolker
+date: today
+format:
+  html:
+    embed-resources: true
+---
+
+## Avenue 
+
+* weekly announcements about assignments etc. etc..
+* schedule, assignments
+* course outline
+
+## Childsmath
+
+* [https://www.childsmath.ca](https://www.childsmath.ca) for assignments and in-class questions/polls
+
+## Lecture/tutorial meetings
+
+* Monday 9:30 ETB 228
+* Friday 12:30 HH 104
+* Friday 3:30 ABB 163
+
+## Office hours
+
+* Bolker, Thurs 11:30 HH 314 (or by appointment)
+* MacDonald, TBA
+
+## Other channels
+
+* [math channel on ISCI 2A18 Team](https://teams.microsoft.com/l/channel/19%3A205e245c22454e7981495c83105e305e%40thread.tacv2/Math?groupId=d8ae4813-482f-4849-9cdd-29c5fa32a955&tenantId=44376307-b429-42ad-8c25-28cd496f4772): for extra stuff/chats
